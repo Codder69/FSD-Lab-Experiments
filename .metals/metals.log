@@ -1,0 +1,137 @@
+2026.04.26 23:01:11 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.26 23:01:11 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+Apr 26, 2026 11:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Apr 26, 2026 11:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.04.26 23:01:13 WARN  no build tool detected in workspace 'E:\FSD LAB EXPERIMENTS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.26 23:01:13 WARN  Build server is not auto-connectable.
+2026.04.26 23:01:13 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java
+2026.04.26 23:01:13 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java
+2026.04.26 23:01:13 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/api/model/Student.java. Output:
+
+2026.04.26 23:01:14 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/api/repository/StudentRepository.java. Output:
+
+2026.04.26 23:01:15 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:01:16 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java
+2026.04.26 23:01:15 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:01:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:01:15 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:01:31 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:02:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:00 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:00 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:00 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:00 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:03 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:05 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:05 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:05 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:05 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:05 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+Apr 26, 2026 11:03:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+2026.04.26 23:03:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:07 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:10 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java
+2026.04.26 23:03:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:30 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:30 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:33 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/api/model/Student.java. Output:
+
+2026.04.26 23:03:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:34 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java
+2026.04.26 23:03:34 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:34 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:34 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:36 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java
+2026.04.26 23:03:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\model\Student.java. Using fallback presentation compiler.
+2026.04.26 23:03:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:03:43 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java
+2026.04.26 23:03:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:03:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:03:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:03:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:07 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:07 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:07 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:07 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:07 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:09 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/api/repository/StudentRepository.java. Output:
+
+2026.04.26 23:04:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:09 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java
+2026.04.26 23:04:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:18 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:18 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:18 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java
+2026.04.26 23:04:18 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:04:18 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/api/repository/StudentRepository.java. Output:
+
+2026.04.26 23:04:18 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\repository\StudentRepository.java. Using fallback presentation compiler.
+2026.04.26 23:05:43 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java
+2026.04.26 23:05:43 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/service/StudentService.java. Output:
+
+2026.04.26 23:05:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:44 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:44 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:44 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:44 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:45 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java
+2026.04.26 23:05:45 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:45 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/service/StudentService.java. Output:
+
+2026.04.26 23:05:45 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:54 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java
+2026.04.26 23:05:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:54 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/service/StudentService.java. Output:
+
+2026.04.26 23:05:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:05:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:06:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:06:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:06:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:06:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:06:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:06:55 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java
+2026.04.26 23:06:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:06:55 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/service/StudentService.java. Output:
+
+2026.04.26 23:06:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:06:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:07:12 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:07:12 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:07:37 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:09:06 INFO  Shutting down server
+2026.04.26 23:09:06 INFO  Memory monitor stopped
+2026.04.26 23:09:06 INFO  shutting down Metals
+2026.04.26 23:09:06 INFO  Exiting server
