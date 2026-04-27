@@ -1271,3 +1271,143 @@ Apr 27, 2026 3:40:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 15
 2026.04.27 15:40:22 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
 2026.04.27 15:40:22 INFO  restarted 1 presentation compiler
+2026.04.27 15:40:27 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:40:29 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:40:35 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:40:45 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:40:46 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:40:46 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:40:46 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:40:48 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:40:48 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:40:50 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:40:50 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java
+2026.04.27 15:40:50 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:40:50 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-7/secureauth-jwt/src/main/java/com/meet/secureauthjwt/config/SecurityConfig.java. Output:
+
+2026.04.27 15:40:50 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:40:50 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:40:51 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:40:51 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:40:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:03 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:03 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:04 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:15 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:15 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:19 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:19 INFO  Created report: Optional[file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-7/secureauth-jwt/src/main/java/com/meet/secureauthjwt/config/SecurityConfig.java]
+2026.04.27 15:41:19 INFO  empty definition using pc, found symbol in pc: _empty_/User#withDefaultPasswordEncoder# (full report at: "E:\FSD LAB EXPERIMENTS\.metals\.reports\metals-full\2026-04-27\r_empty-definition_15-41-19-816.md")
+Apr 27, 2026 3:41:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 27, 2026 3:41:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.27 15:41:23 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:24 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:24 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:24 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:25 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-7/secureauth-jwt/src/main/java/com/meet/secureauthjwt/config/SecurityConfig.java. Output:
+
+2026.04.27 15:41:24 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:25 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java
+2026.04.27 15:41:25 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:30 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:30 INFO  empty definition using pc, found symbol in pc: _empty_/User#withDefaultPasswordEncoder# (full report at: "E:\FSD LAB EXPERIMENTS\.metals\.reports\metals-full\2026-04-27\r_empty-definition_15-41-19-816.md")
+2026.04.27 15:41:32 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:32 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:32 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:34 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:34 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:36 INFO  empty definition using pc, found symbol in pc: _empty_/User#withDefaultPasswordEncoder# (full report at: "E:\FSD LAB EXPERIMENTS\.metals\.reports\metals-full\2026-04-27\r_empty-definition_15-41-19-816.md")
+2026.04.27 15:41:39 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:39 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:39 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:40 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:40 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:40 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:48 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:48 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:50 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:50 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:52 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:59 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:59 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:59 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:41:59 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+Apr 27, 2026 3:42:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.27 15:42:11 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:43:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:43:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:43:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:43:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:44:00 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:44:00 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:44:04 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:44:04 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:44:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:44:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:44:58 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:44:58 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:45:04 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:45:49 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:45:49 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:45:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:45:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:46:15 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:46:19 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:46:21 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:46:23 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:46:25 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:46:27 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:46:30 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:46:40 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:46:40 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:46:45 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:46:47 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:46:47 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:46:50 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:47:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:47:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:47:37 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:47:37 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:48:27 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:48:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:48:31 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:48:31 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:49:22 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:49:22 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:49:25 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:49:25 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:50:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+Apr 27, 2026 3:50:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 232
+2026.04.27 15:50:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:50:23 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+2026.04.27 15:50:23 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-7\secureauth-jwt\src\main\java\com\meet\secureauthjwt\config\SecurityConfig.java. Using fallback presentation compiler.
+Apr 27, 2026 4:06:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 27, 2026 4:07:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 27, 2026 9:17:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
