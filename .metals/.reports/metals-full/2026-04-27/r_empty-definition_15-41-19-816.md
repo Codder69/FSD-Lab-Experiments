@@ -1,3 +1,14 @@
+error id: file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-7/secureauth-jwt/src/main/java/com/meet/secureauthjwt/config/SecurityConfig.java:_empty_/User#withDefaultPasswordEncoder#
+file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-7/secureauth-jwt/src/main/java/com/meet/secureauthjwt/config/SecurityConfig.java
+empty definition using pc, found symbol in pc: _empty_/User#withDefaultPasswordEncoder#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 756
+uri: file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-7/secureauth-jwt/src/main/java/com/meet/secureauthjwt/config/SecurityConfig.java
+text:
+```scala
 package com.meet.secureauthjwt.config;
 
 import org.springframework.context.annotation.Bean;
@@ -17,8 +28,7 @@ public class SecurityConfig {
 public UserDetailsService users(){
 
 UserDetails user=
-// `User.withDefaultPasswordEncoder()` is a method used to create a new instance of `User.UserBuilder` with a default password encoder. This method is used to create user details with a password that is encoded using the default password encoder provided by Spring Security. It simplifies the process of creating user details with encoded passwords for in-memory authentication configurations.
-User.withDefaultPasswordEncoder()
+User.withDefaultPassword@@Encoder()
 .username("user")
 .password("1234")
 .roles("USER")
@@ -53,3 +63,9 @@ return http.build();
 }
 
 }
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: _empty_/User#withDefaultPasswordEncoder#
