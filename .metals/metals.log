@@ -135,3 +135,843 @@ WARNING: Unmatched cancel notification for request id 25
 2026.04.26 23:09:06 INFO  Memory monitor stopped
 2026.04.26 23:09:06 INFO  shutting down Metals
 2026.04.26 23:09:06 INFO  Exiting server
+2026.04.26 23:10:43 INFO  Started: Metals version 1.6.7 in folders 'E:\FSD LAB EXPERIMENTS' for client Visual Studio Code 1.117.0.
+2026.04.26 23:10:43 INFO  Memory monitor started
+2026.04.26 23:10:45 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.26 23:10:45 WARN  no build tool detected in workspace 'E:\FSD LAB EXPERIMENTS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.26 23:10:45 WARN  Build server is not auto-connectable.
+2026.04.26 23:10:45 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java
+2026.04.26 23:10:46 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/service/StudentService.java. Output:
+
+2026.04.26 23:14:14 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\service\StudentService.java. Using fallback presentation compiler.
+2026.04.26 23:14:14 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\service\StudentService.java
+2026.04.26 23:14:14 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/api/service/StudentService.java. Output:
+
+2026.04.26 23:14:51 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java
+2026.04.26 23:14:51 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/api/contoller/StudentController.java. Output:
+
+2026.04.26 23:14:51 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:14:52 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:14:52 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:14:52 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:14:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+Apr 26, 2026 11:14:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2026.04.26 23:14:53 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java
+2026.04.26 23:14:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:14:53 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/api/contoller/StudentController.java. Output:
+
+2026.04.26 23:14:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:14:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+Apr 26, 2026 11:15:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+2026.04.26 23:15:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:17 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/api/contoller/StudentController.java. Output:
+
+2026.04.26 23:15:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:18 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java
+2026.04.26 23:15:18 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:19 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:19 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:21 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:23 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:23 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:30 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:30 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:15:31 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:16:59 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\controller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:16:59 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\controller\StudentController.java
+2026.04.26 23:16:59 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\contoller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:17:00 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/api/controller/StudentController.java. Output:
+
+2026.04.26 23:16:59 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\controller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:17:00 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\controller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:16:59 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\controller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:17:00 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\controller\StudentController.java. Using fallback presentation compiler.
+2026.04.26 23:17:01 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\controller\StudentController.java. Using fallback presentation compiler.
+2026.04.27 01:49:10 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java
+2026.04.27 01:49:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:10 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/api/Exception/GlobalExceptionHandler.java. Output:
+
+2026.04.27 01:49:12 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:12 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:12 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:13 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java
+2026.04.27 01:49:13 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:13 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/api/Exception/GlobalExceptionHandler.java. Output:
+
+2026.04.27 01:49:14 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:14 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:15 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:34 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-5/studenthub.api/src/main/java/com/meet/studenthub/api/Exception/GlobalExceptionHandler.java. Output:
+
+2026.04.27 01:49:34 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:34 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:34 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java
+2026.04.27 01:49:34 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:34 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:35 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:38 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 01:49:58 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-5\studenthub.api\src\main\java\com\meet\studenthub\api\Exception\GlobalExceptionHandler.java. Using fallback presentation compiler.
+2026.04.27 10:39:11 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 10:39:11 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:12 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Category.java. Output:
+
+2026.04.27 10:39:13 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:13 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:13 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:13 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:14 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 10:39:14 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:14 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Category.java. Output:
+
+2026.04.27 10:39:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:18 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 10:39:18 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:18 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Category.java. Output:
+
+2026.04.27 10:39:18 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 10:39:33 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 10:39:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 10:39:33 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Product.java. Output:
+
+2026.04.27 10:39:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 10:39:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 10:39:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+Apr 27, 2026 10:39:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 141
+2026.04.27 10:39:37 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 10:39:37 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 10:39:37 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Product.java. Output:
+
+2026.04.27 10:39:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 10:39:38 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 10:39:38 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 10:39:38 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 10:39:38 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 10:39:38 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 10:39:40 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 10:39:40 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Product.java. Output:
+
+2026.04.27 10:39:40 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 10:39:40 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 10:39:40 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:34:22 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:34:22 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:34:22 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 11:34:23 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:34:23 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:34:23 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:34:23 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:34:23 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:34:24 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:34:24 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:34:24 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 11:34:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:34:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:34:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:34:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:34:34 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:34:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:34:34 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 11:34:34 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:34:35 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:34:35 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:34:34 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:00 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java
+2026.04.27 11:35:00 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/ProductRepository.java. Output:
+
+2026.04.27 11:35:00 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:01 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:01 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:01 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:01 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:01 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:02 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java
+2026.04.27 11:35:02 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:02 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/ProductRepository.java. Output:
+
+2026.04.27 11:35:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:10 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/ProductRepository.java. Output:
+
+2026.04.27 11:35:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:11 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java
+2026.04.27 11:35:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:11 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:35:35 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java
+2026.04.27 11:35:35 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/controller/ProductController.java. Output:
+
+2026.04.27 11:35:35 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:35:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:35:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:35:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:35:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:35:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:35:37 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/controller/ProductController.java. Output:
+
+2026.04.27 11:35:37 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java
+2026.04.27 11:35:37 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:35:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:35:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:35:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:35:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:35:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:35:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:35:43 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/controller/ProductController.java. Output:
+
+2026.04.27 11:35:44 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:35:44 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java
+2026.04.27 11:35:44 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:35:44 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:04 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:04 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:04 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:04 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:09 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/controller/ProductController.java. Output:
+
+2026.04.27 11:37:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:10 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java
+2026.04.27 11:37:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:12 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:19 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:19 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:19 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:20 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:20 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/controller/ProductController.java. Output:
+
+2026.04.27 11:37:19 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:19 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:20 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java
+2026.04.27 11:37:20 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:21 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:37:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:26 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java
+2026.04.27 11:37:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+Apr 27, 2026 11:37:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 309
+2026.04.27 11:37:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:33 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/ProductRepository.java. Output:
+
+2026.04.27 11:37:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:35 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:35 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:37:35 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:35 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:35 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java
+2026.04.27 11:37:35 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:35 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:35 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:37 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:46 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:46 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:46 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:46 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:46 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 11:37:46 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:46 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:47 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:37:47 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:47 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:47 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:37:49 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:49 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 11:37:49 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:49 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:49 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:49 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:51 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:51 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:51 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:54 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Category.java. Output:
+
+2026.04.27 11:37:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:55 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 11:37:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:37:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:37:55 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 11:37:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:37:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:37:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:37:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:37:58 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:37:58 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:37:58 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:38:01 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:38:01 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:38:01 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:38:02 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Product.java. Output:
+
+2026.04.27 11:38:01 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:38:02 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:38:01 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:38:02 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 11:38:02 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:38:03 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:38:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:06 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:38:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+Apr 27, 2026 11:38:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 424
+2026.04.27 11:38:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+Apr 27, 2026 11:38:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 425
+2026.04.27 11:38:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:13 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:13 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:18 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:18 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:21 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:21 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:24 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:24 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:34 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:36 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 11:38:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:36 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:37 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 11:38:37 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:37 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:38:37 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:44 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:45 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:45 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 11:38:46 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:38:46 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:38:46 INFO  Created report: Optional[file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java]
+2026.04.27 11:38:46 INFO  QDox parse error in file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java (full report at: "E:\FSD LAB EXPERIMENTS\.metals\.reports\metals-full\2026-04-27\r_qdox-error_11-38-46-016.md")
+2026.04.27 11:39:00 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:00 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:00 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:00 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 11:39:00 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:01 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:39:01 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:01 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:01 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+Apr 27, 2026 11:39:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 490
+2026.04.27 11:39:02 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:02 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:02 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:02 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:05 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:05 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:05 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:05 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:06 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 11:39:05 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:06 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:39:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:07 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:08 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 11:39:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:09 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:39:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:12 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:12 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:12 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:12 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:12 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 11:39:12 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:12 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:13 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:39:13 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:13 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:15 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:39:15 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java
+2026.04.27 11:39:15 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:39:15 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:39:15 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:39:15 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:39:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:39:16 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:39:29 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:39:29 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:29 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:39:29 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:29 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:29 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:29 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:55 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:39:55 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 11:39:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:39:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:39:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:39:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:39:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:57 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java
+2026.04.27 11:39:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:57 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:57 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:39:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:39:57 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+Apr 27, 2026 11:39:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 574
+2026.04.27 11:39:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:39:58 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:39:58 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:39:58 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:39:59 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:39:59 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 11:39:59 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:39:59 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:39:59 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:39:59 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:40:17 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:40:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:40:17 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 11:40:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:40:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:40:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:40:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:40:18 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:40:21 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 11:40:21 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Product.java. Output:
+
+2026.04.27 11:40:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:40:26 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 11:40:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:40:27 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:40:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:40:26 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:41:00 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 11:41:00 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:00 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Category.java. Output:
+
+2026.04.27 11:41:02 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:02 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:02 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+Apr 27, 2026 11:41:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 619
+2026.04.27 11:41:03 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:03 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Category.java. Output:
+
+2026.04.27 11:41:03 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 11:41:03 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:03 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:07 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:07 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:07 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:07 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:07 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:08 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Category.java. Output:
+
+2026.04.27 11:41:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:08 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 11:41:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:11 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:11 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:11 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:14 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:14 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:14 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:14 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:14 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Category.java. Output:
+
+2026.04.27 11:41:14 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:15 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 11:41:15 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:15 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 11:41:54 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 11:41:54 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Product.java. Output:
+
+2026.04.27 11:41:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:41:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:41:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:41:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:41:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:41:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:41:55 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Product.java. Output:
+
+2026.04.27 11:41:55 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 11:41:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:04 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:04 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:04 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:04 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:05 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:04 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:05 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Product.java. Output:
+
+2026.04.27 11:42:05 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:06 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 11:42:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:05 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:07 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:07 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:10 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Product.java. Output:
+
+2026.04.27 11:42:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:11 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 11:42:11 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:11 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:34 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 11:42:41 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:42:41 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 11:42:42 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:42 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:42 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:42 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:42 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:43 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 11:42:42 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:43 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:42:43 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:53 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:53 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 11:42:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:53 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:42:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:58 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:58 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 11:42:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:58 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 11:42:58 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:42:59 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:45 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java
+2026.04.27 11:43:45 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/ProductRepository.java. Output:
+
+2026.04.27 11:43:45 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:46 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:46 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:46 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:46 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:46 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/ProductRepository.java. Output:
+
+2026.04.27 11:43:46 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:46 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java
+2026.04.27 11:43:47 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:55 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/ProductRepository.java. Output:
+
+2026.04.27 11:43:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:56 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java
+2026.04.27 11:43:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:59 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:43:59 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:44:02 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:44:02 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:44:02 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:44:02 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:44:02 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/ProductRepository.java. Output:
+
+2026.04.27 11:44:02 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:44:03 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java
+2026.04.27 11:44:03 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:44:03 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 11:44:16 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java
+2026.04.27 11:44:17 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/controller/ProductController.java. Output:
+
+2026.04.27 11:44:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:18 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/controller/ProductController.java. Output:
+
+2026.04.27 11:44:17 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:18 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java
+2026.04.27 11:44:18 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:27 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:27 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:27 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:27 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:27 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:27 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:27 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/controller/ProductController.java. Output:
+
+2026.04.27 11:44:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:28 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java
+2026.04.27 11:44:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:29 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:29 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:32 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:32 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:32 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:32 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:32 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/controller/ProductController.java. Output:
+
+2026.04.27 11:44:32 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:33 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java
+2026.04.27 11:44:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:33 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:44:58 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:47:05 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:47:52 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 11:48:58 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 12:26:43 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 12:26:43 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 12:26:43 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 12:26:43 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 12:26:46 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 12:26:46 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 12:26:46 WARN  no build target for: e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 12:26:46 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 12:26:46 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 12:26:46 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 12:26:46 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 12:26:52 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:26:52 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 12:26:54 INFO  no build target found for e:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 12:34:05 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 12:34:05 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Category.java. Output:
+
+2026.04.27 12:34:05 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:34:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:34:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:34:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:34:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:34:07 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Category.java. Output:
+
+2026.04.27 12:34:06 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:34:07 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 12:34:07 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:34:19 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 12:34:19 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Product.java. Output:
+
+2026.04.27 12:34:19 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 12:34:20 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 12:34:19 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 12:34:20 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 12:34:20 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Product.java. Output:
+
+2026.04.27 12:34:20 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 12:34:21 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 12:34:21 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java. Using fallback presentation compiler.
+2026.04.27 12:34:40 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 12:34:40 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 12:34:40 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 12:34:41 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 12:34:41 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 12:34:41 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 12:34:41 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 12:34:41 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 12:34:42 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 12:34:42 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java. Using fallback presentation compiler.
+2026.04.27 12:34:54 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java
+2026.04.27 12:34:54 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/ProductRepository.java. Output:
+
+2026.04.27 12:34:54 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 12:34:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 12:34:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 12:34:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 12:34:55 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/ProductRepository.java. Output:
+
+2026.04.27 12:34:55 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 12:34:56 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java
+2026.04.27 12:34:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java. Using fallback presentation compiler.
+2026.04.27 12:35:08 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java
+2026.04.27 12:35:08 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/controller/ProductController.java. Output:
+
+2026.04.27 12:35:08 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 12:35:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 12:35:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 12:35:09 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/controller/ProductController.java. Output:
+
+2026.04.27 12:35:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 12:35:09 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 12:35:10 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java
+2026.04.27 12:35:10 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java. Using fallback presentation compiler.
+2026.04.27 12:35:25 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:25 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 12:35:25 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:25 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:25 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:25 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:27 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:26 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:27 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Category.java. Output:
+
+2026.04.27 12:35:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:28 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 12:35:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:28 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:29 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:29 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:29 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:35:29 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:36:49 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:36:51 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:36:51 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:36:51 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:36:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:36:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:36:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:36:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:36:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:36:56 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Category.java. Output:
+
+2026.04.27 12:36:56 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:36:57 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 12:36:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:36:57 INFO  no build target found for E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java. Using fallback presentation compiler.
+2026.04.27 12:37:05 INFO  Shutting down server
+2026.04.27 12:37:05 INFO  Memory monitor stopped
+2026.04.27 12:37:05 INFO  shutting down Metals
+2026.04.27 12:37:05 INFO  Exiting server
+2026.04.27 13:02:54 INFO  Started: Metals version 1.6.7 in folders 'E:\FSD LAB EXPERIMENTS' for client Visual Studio Code 1.117.0.
+2026.04.27 13:03:31 INFO  Memory monitor started
+2026.04.27 13:03:38 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.27 13:03:43 WARN  no build tool detected in workspace 'E:\FSD LAB EXPERIMENTS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.27 13:03:43 WARN  Build server is not auto-connectable.
+2026.04.27 13:03:44 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Product.java
+2026.04.27 13:03:44 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\entity\Category.java
+2026.04.27 13:03:44 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\ProductRepository.java
+2026.04.27 13:03:44 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\repository\CategoryRepository.java
+2026.04.27 13:03:44 WARN  no build target for: E:\FSD LAB EXPERIMENTS\Exp-6\productnest-jpa\src\main\java\com\meet\productnest_jpa\controller\ProductController.java
+2026.04.27 13:03:48 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Product.java. Output:
+
+2026.04.27 13:03:48 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/ProductRepository.java. Output:
+
+2026.04.27 13:03:48 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/controller/ProductController.java. Output:
+
+2026.04.27 13:03:49 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/entity/Category.java. Output:
+
+2026.04.27 13:03:49 WARN  Running javac-semanticdb failed for file:///E:/FSD%20LAB%20EXPERIMENTS/Exp-6/productnest-jpa/src/main/java/com/meet/productnest_jpa/repository/CategoryRepository.java. Output:
+
+2026.04.27 13:03:50 INFO  restarted 0 presentation compilers
+Apr 27, 2026 1:05:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 27, 2026 1:06:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
